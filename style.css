@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Raleway:ital,wght@0,100;0,200;1,100&display=swap');
+
+    
+body{
+    background: #fff;
+}
+
+.container{
+    background: #97cfff;
+}
+
+#number{
+    margin-left: 20px;
+    width: 46%;
+    height: 24px;
+    margin-left: 4px;
+    margin-top: 7px;
+    border: 0;
+    border-radius: 3px;
+    font-size: 18px;
+    outline: none;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+#get_fact {
+    height: 30px;
+    margin-left: 19px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    width: 77px;
+    cursor: pointer;
+    background: #fbffd6;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.container{
+    width: 29%;
+    height: 15pc;
+    border-radius: 11px;
+    margin-left: 29%;
+    margin-top: 2%;
+}
+
+#get_random{
+    margin-left: 32%;
+    margin-top: 8px;
+    border-radius: 5px;
+    border: 0;
+    width: 33%;
+    height: 26px;
+    cursor: pointer;
+    background: #fbffd6;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.fact{
+    display: block;
+    margin-left: 16px;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
