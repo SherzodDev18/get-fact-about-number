@@ -1,2 +1,1 @@
-# get-fact-about-number
-JS API HTML CSS
+Men bu repozitoriyda API dan foydalanib sonlar haqida fakt beradigan dastur yasadim.
